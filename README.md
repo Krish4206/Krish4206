@@ -26,7 +26,7 @@ appropriate skills who's always willing to learn and work across technology and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/krishnat-mahajan-1a18821a3/](https://www.linkedin.com/in/krishnat-mahajan-1a18821a3)) 
  
  <h3>
-  <a href="https://drive.google.com/file/d/1e7uet89GaNVGlc1kxhO9ouKyx8Rfjj40/view?usp=share_link" target="_blank"> Resume </a>
+  <a href="https://drive.google.com/file/d/1-jWUcb35mxCYn4exoAdLs0Jku5hzQCIz/view?usp=share_link" target="_blank"> Resume </a>
 </h3>
  
 # 💻 Tech Stack:
