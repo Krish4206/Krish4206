@@ -15,7 +15,7 @@ appropriate skills who's always willing to learn and work across technology and 
 
 - 📫 How to reach me: *mahajankrishna798@gmail.com*<br>
 
-- Want to know more about me? [My Portfolio](krish4206)
+- Want to know more about me? [My Portfolio]([krish4206](https://krish4206.github.io/Portfolio/))
 
 - My resume--[Resume](https://drive.google.com/file/d/1-jWUcb35mxCYn4exoAdLs0Jku5hzQCIz/view?usp=share_link)
 
