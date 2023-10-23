@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Krishnat Mahajan
 
-- 🌱 I’m currently learning *React Developer*
+- I’m currently working as a *React Developer*
 - "Passionate React.js developer crafting engaging, high-performance web applications."
 
 
