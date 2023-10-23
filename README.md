@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Krishnat Mahajan
 
-- 🌱 I’m currently learning *Full Stack Web Development*
+- 🌱 I’m currently learning *React Developer*
+- "Passionate React.js developer crafting engaging, high-performance web applications."
 
 
 # 💫 About Me:
