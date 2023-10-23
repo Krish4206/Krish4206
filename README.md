@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-<h3 align="center" >An enthusiastic and creative Full-Stack Web Developer with
+<h3 align="center" >An enthusiastic and creative React Developer with
 appropriate skills who's always willing to learn and work across technology and domains.</h3>
 
 <h2> 💫About Me</h2>
@@ -16,8 +16,6 @@ appropriate skills who's always willing to learn and work across technology and 
 - 📫 How to reach me: *mahajankrishna798@gmail.com*<br>
 
 - Want to know more about me? [My Portfolio](https://krish4206.github.io/Portfolio/)
-
-- My resume--[Resume](https://drive.google.com/file/d/1-jWUcb35mxCYn4exoAdLs0Jku5hzQCIz/view?usp=share_link)
 
 - ⚡ *Learning with fun*
 
